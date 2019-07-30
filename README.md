@@ -1,2 +1,1 @@
-# bootstrap
-playing with bootstrap
+PHP and SQL Database Project
